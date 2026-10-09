@@ -1,4 +1,5 @@
 # 1047. Remove All Adjacent Duplicates In String
+# https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/
 # Pattern : Stack
 # Temps : O(n)
 # Mémoire : O(n) dans le pire cas
@@ -16,6 +17,7 @@ class Solution:
 
 
 # 1456. Maximum Number of Vowels in a Substring of Given Length
+# https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 # Pattern : Sliding Window / fenêtre glissante
 # Temps : O(n)
 # Mémoire : O(1), car le set de voyelles a une taille fixe
@@ -43,6 +45,7 @@ class Solution:
 
 
 # 35. Search Insert Position
+# https://leetcode.com/problems/search-insert-position/description/
 # Pattern : Binary Search
 # Temps : O(log n)
 # Mémoire : O(1)
@@ -65,6 +68,7 @@ class Solution:
 
 
 # 242. Valid Anagram
+# https://leetcode.com/problems/valid-anagram/description/
 # Pattern : HashMap / fréquence
 # Temps : O(n + m)
 # Mémoire : O(k), avec k = nombre de caractères distincts
@@ -83,6 +87,7 @@ class Solution:
 
 
 # Triangle Number Check
+# https://www.codewars.com/kata/557e8a141ca1f4caa70000a6
 # Pattern : simulation / soustractions successives
 # Temps : O(sqrt(n))
 # Mémoire : O(1)

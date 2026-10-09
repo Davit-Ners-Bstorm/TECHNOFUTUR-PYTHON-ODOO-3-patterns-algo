@@ -1,4 +1,5 @@
 # 1. Duplicate Encoder
+# https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
 # Pattern : HashMap / fréquence
 # Temps : O(n)
 # Mémoire : O(k), avec k = nombre de caractères distincts
@@ -22,6 +23,7 @@ def duplicate_encode(word):
 
 
 # 2. Unique In Order
+# https://www.codewars.com/kata/54e6533c92449cc251001667
 # Pattern : parcours linéaire / comparaison avec l’élément précédent
 # Temps : O(n)
 # Mémoire : O(n) pour le résultat
@@ -36,6 +38,7 @@ def unique_in_order(sequence):
 
 
 # 3. Sort the Odd
+# https://www.codewars.com/kata/578aa45ee9fd15ff4600090d
 # Pattern : extraction → tri → reconstruction
 # Temps : O(n log n) à cause du tri
 # Mémoire : O(n)
@@ -60,6 +63,7 @@ def sort_array(source_array):
 
 
 # 4. Fizz Buzz
+# https://leetcode.com/problems/fizz-buzz/description/
 # Pattern : conditions / modulo (loooool)
 # Temps : O(n)
 # Mémoire : O(n) pour le résultat
@@ -81,6 +85,7 @@ class Solution:
 
 
 # 5. Check if the Sentence Is Pangram
+# https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/
 # Pattern : Set / unicité
 # Temps : O(n)
 # Mémoire : O(1) ici, car maximum 26 lettres différentes
