@@ -24,3 +24,42 @@
 
 ---
 ---
+
+
+### J3
+---
+
+- Move Zeroes
+- First Unique Character in a String
+- Best Time to Buy and Sell Stock
+- Ransom Note
+- Merge Sorted Array
+
+---
+---
+
+
+### J4
+---
+
+- Remove All Adjacent Duplicates In String
+- Maximum Number of Vowels in a Substring of Given Length
+- Search Insert Position
+- Valid Anagram
+- Triangle Number Check
+
+---
+---
+
+
+### J5
+---
+
+- Is Subsequence
+- Majority Element
+- Squares of a Sorted Array
+- Can Place Flowers
+- Intersection of Two Arrays
+
+---
+---
