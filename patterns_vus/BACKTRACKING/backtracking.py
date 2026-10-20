@@ -6,6 +6,7 @@ def backtracking(path = None):
 
     if len(path) == len(lst):
         print(path)
+        return
 
     for letter in lst:
         if not letter in path:
@@ -13,6 +14,6 @@ def backtracking(path = None):
             backtracking(path)
             path.pop()
 
-    return None
+    return
 
 backtracking()
